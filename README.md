@@ -3,7 +3,9 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annnhs&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annnhs&exclude_repo=product,webserver-framework&layout=compact&theme=cobalt)
 ---
+
 <!--
 **annnhs/annnhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
